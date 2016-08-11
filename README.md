@@ -17,3 +17,5 @@
  - The isomerase active site of GlmS seems to be the result of evolution through gene duplication ... 
 - [Annotation of proteins of unknown function: initial enzyme results. - PubMed - NCBI](http://www.ncbi.nlm.nih.gov/pubmed/25630330) 
  - Can you find a function for those proteins of unknown function? 
+- [Computational prediction of protein-protein interactions. - PubMed - NCBI](http://www.ncbi.nlm.nih.gov/pubmed/15064475) 
+ -     Why is this important?     
