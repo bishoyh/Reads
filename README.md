@@ -6,3 +6,5 @@
 
 ### August 11, 2016 
 - [Using Fetch - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) 
+- [Getting Started: Building a Chrome Extension - Google Chrome](https://developer.chrome.com/extensions/getstarted#declaration) 
+ -     Why is this important?     
