@@ -25,3 +25,5 @@
  - the bits and the nematodes! 
 - [javascript - Closing popup window created by Google Chrome extension - Stack Overflow](http://stackoverflow.com/questions/3950981/closing-popup-window-created-by-google-chrome-extension) 
  - Tab problems? 
+- [javascript - Closing popup window created by Google Chrome extension - Stack Overflow](http://stackoverflow.com/questions/3950981/closing-popup-window-created-by-google-chrome-extension) 
+ -     Why is this important?     
