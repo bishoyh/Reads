@@ -15,3 +15,5 @@
 - [The crystal and solution studies of glucosamine-6-phosphate synthase from Candida albicans. - PubMed - NCBI](http://www.ncbi.nlm.nih.gov/pubmed/17681543)
 - [Involvement of the C terminus in intramolecular nitrogen channeling in glucosamine 6-phosphate synthase: evidence from a 1.6 A crystal structure of... - PubMed - NCBI](http://www.ncbi.nlm.nih.gov/pubmed/9739095) 
  - The isomerase active site of GlmS seems to be the result of evolution through gene duplication ... 
+- [Annotation of proteins of unknown function: initial enzyme results. - PubMed - NCBI](http://www.ncbi.nlm.nih.gov/pubmed/25630330) 
+ - Can you find a function for those proteins of unknown function? 
