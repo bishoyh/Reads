@@ -27,3 +27,5 @@
  - The possible Antarctic origin of Cephalaspidea is discussed 
 - [A new Antarctic heterobranch clade is sister to all other Cephalaspidea (Mollusca: Gastropoda) - Moles - 2016 - Zoologica Scripta - Wiley Online Library](http://onlinelibrary.wiley.com/doi/10.1111/zsc.12199/full) 
  -     Why is this important?     
+- [انقسام بين مسئولين حكوميين حول جدوى القرض الروسى لمحطة الضبعة النووية - بوابة الشروق](http://www.shorouknews.com/news/view.aspx?cdate=09082016&id=51550acc-5378-4faa-ad92-ee2e859f8699) 
+ -     Why is this important?     
