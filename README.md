@@ -10,3 +10,5 @@
  -     Why?     
 - [The N‐acetylglucosamine catabolic gene cluster in Trichoderma reesei is controlled by the Ndt80‐like transcription factor RON1](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4950302/) 
  - yes 
+- [Enzymes of UDP-GlcNAc biosynthesis in yeast. - PubMed - NCBI](http://www.ncbi.nlm.nih.gov/pubmed/16408321) 
+ - yes 
