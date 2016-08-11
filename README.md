@@ -21,3 +21,5 @@
  -     Why is this important?     
 - [Computational prediction of protein-protein interactions. - PubMed - NCBI](http://www.ncbi.nlm.nih.gov/pubmed/15064475) 
  - Predict those PPis 
+- ["Bits" and pieces. - PubMed - NCBI](http://www.ncbi.nlm.nih.gov/pubmed/16788164) 
+ - the bits and the nematodes! 
