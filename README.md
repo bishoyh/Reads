@@ -6,3 +6,5 @@
 
 ### August 11, 2016 
 - [Using Fetch - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) 
+- [Comparative genome sequence analysis underscores mycoparasitism as the ancestral life style of Trichoderma](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3218866/) 
+ -     Why?     
