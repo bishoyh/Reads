@@ -5,3 +5,7 @@
  - Light pollution! where can you see the milky way? 
 - [BBC - Future - Will the skyscrapers outlast the pyramids?](http://www.bbc.com/future/story/20160808-will-the-skyscrapers-outlast-the-pyramids) 
  - Probably not 
+
+### August 13, 2016 
+- [sachinchoolur/lightgallery.js: Full featured JavaScript image & video gallery. No dependencies](https://github.com/sachinchoolur/lightgallery.js/) 
+ - Excellent javascript gallery 
