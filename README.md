@@ -9,3 +9,7 @@
 ### August 13, 2016 
 - [sachinchoolur/lightgallery.js: Full featured JavaScript image & video gallery. No dependencies](https://github.com/sachinchoolur/lightgallery.js/) 
  - Excellent javascript gallery 
+
+### August 20, 2016 
+- [GitHub Extension for Visual Studio 2.0 is now available](https://github.com/blog/2232-github-extension-for-visual-studio-2-0-is-now-available) 
+ - github for vs 
